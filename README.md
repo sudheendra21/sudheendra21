@@ -2,13 +2,13 @@
 
 <br>
 <div align="center">
-    <a href="https://www.linkedin.com/in/kartiksharma99/">
+    <a href="https://www.linkedin.com/in/sudheendra-s-820ba9160/">
         <img 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="profile of Kartik with username kartiksharma99" 
         />
     </a>
-    <a href="mailto:kartik42sharma@gmail.com">
+    <a href="mailto:sabnavisu.s@northeastern.edu">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kartik's Email i.e. kartik42sharma@gmail.com" />
     </a>
     <a href="https://t.me/kartiks108">
